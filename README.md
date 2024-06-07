@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Juan Andrés Rivera, I am a mid-level software engineer
+My name is Juan Andrés Rivera, I am a fullstack engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-ariverak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariverak/)](https://www.linkedin.com/in/ariverak/)
 [![Instagram Badge](https://img.shields.io/badge/-ariverak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ariverak/)](https://instagram.com/ariverak)
